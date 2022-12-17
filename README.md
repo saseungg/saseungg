@@ -19,7 +19,7 @@
 
 ### 📬 Contact :
 <p align="left">
-  <a href="https://velog.io/@saseungyeon"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@saseungyeon"/></a>&nbsp
+  <a href="https://velog.io/@saseungyeon"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@saseungg"/></a>&nbsp
   <a href="mailto:yeon14766@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeon14766@gmail.com"/></a>&nbsp
   <a href="https://github.com/saseungg"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/saseungg"/></a>
 </p>
