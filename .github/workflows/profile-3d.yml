@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: #01:00 KST == 16:00 UTC
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,12 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          USERNAME: saseungg
       - name: Commit & Push
         run: |
-          git config saseungg github-actions
-          git config seung0122@naver.com github-actions@github.com
+          git config user.name saseungg
+          git config user.email seung0122@naver.com
           git add -A .
           git commit -m "generated"
           git push
