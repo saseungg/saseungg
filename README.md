@@ -36,5 +36,3 @@
   
 [![saseungg's GitHub stats](https://github-readme-stats.vercel.app/api?username=saseungg&show_icons=true&theme=flag-defualt)](https://github.com/saseungg/github-readme-stats)
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
