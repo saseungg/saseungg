@@ -1,8 +1,7 @@
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello, I'm Daon!
 
-## Hello, I'm Daon!
-- 많은 사람들이 편리하게 이용할 수 있는 나만의 서비스를 개발하는 것이 목표입니다. ⛳ 
-- UI/UX를 개선하여 사용자 경험이 향상된 서비스가 되었을 때 큰 만족감을 느낍니다. 😊
-- 문제의 근본적인 원인을 파악하기 위해 항상 질문을 던지고 [기록](https://github.com/saseungg/why)하고 있습니다. 🧐 
+- 일상에서 느끼는 불편함을 해소할 수 있는 나만의 서비스를 만들고 싶어 개발하는 것이 목표입니다. ⛳️
+- 최근 성능 최적화에 관심이 있습니다. 👻
 
 ### 🎯 최근 집중하는 기술스택은
 <div>
