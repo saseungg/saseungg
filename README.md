@@ -12,4 +12,5 @@
 - [CodeSquad](https://codesquad.kr/) <sub><sup>(2023.01 ~ 2023.06)</sup></sub>
 
 [![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)]()
-   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://velog.io/@juno7803)](https://velog.io/@saseungg)
+[![Portfolio](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white)](https://velog.io/@saseungg)
+
