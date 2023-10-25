@@ -11,9 +11,4 @@
 ### 📚 Education
 - [CodeSquad](https://codesquad.kr/) <sub><sup>(2023.01 ~ 2023.06)</sup></sub>
 
-<br>
-
-[![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)]()
-[![Portfolio](https://img.shields.io/badge/Velog-black?logo=Velog)](https://velog.io/@saseungg)
-
 
