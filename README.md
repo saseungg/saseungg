@@ -1,9 +1,8 @@
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello, I'm Daon!
+### 사승연 ﹒ Daon
 
-- 일상에서 느끼는 불편함을 해소할 수 있는 나만의 서비스를 개발하는 것이 목표입니다.
-- 최근 성능 최적화에 관심이 있습니다.
+FE Engineer    
+The goal is to develop your own service that can solve a pain point in your daily life.
 
-### 📚 Education
-- [CodeSquad](https://codesquad.kr/) <sub><sup>(2023.01 ~ 2023.06)</sup></sub>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungg&hide=contribs&show_icons=true&bg_color=F5F7F8&text_color=144272" />
+</a>
